@@ -38,13 +38,16 @@ Single reusable code is used for all systems. Only numerator and denominator cha
 ## 📷 Outputs
 
 ### Step Response
-![Step](outputs/step_response.png)
+![Step] <img width="838" height="755" alt="Step Response" src="https://github.com/user-attachments/assets/0fdbb678-aacc-44fd-96d4-7340d1bc0fed" />
+
 
 ### Ramp Response
-![Ramp](outputs/ramp_response.png)
+![Ramp] <img width="833" height="746" alt="Ramp Response" src="https://github.com/user-attachments/assets/8eaa8971-6f7e-4e04-aa82-afad54fc2883" />
+
 
 ### Parabolic Response
-![Parabolic](outputs/parabolic_response.png)
+![Parabolic] <img width="829" height="752" alt="Parabolic Response" src="https://github.com/user-attachments/assets/a70d7416-470a-49dc-acc9-554c3169ec34" />
+
 
 ---
 
